@@ -1,0 +1,2 @@
+Sequence Size: 5. Time Limit: 10. Number of Trials: 1. Time to complete: 12.33881. Incorrect Presses: 0
+Sequence Size: 5. Time Limit: 10. Number of Trials: 2. Time to complete: 0. Incorrect Presses: 0
